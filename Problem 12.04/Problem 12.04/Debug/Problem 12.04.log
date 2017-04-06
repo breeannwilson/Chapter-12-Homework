@@ -1,0 +1,6 @@
+﻿  Problem 12.04.cpp
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.04\problem 12.04\problem 12.04.cpp(12): warning C4715: 'isSorted<double>': not all control paths return a value
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.04\problem 12.04\problem 12.04.cpp(12): warning C4715: 'isSorted<int>': not all control paths return a value
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.04\problem 12.04\problem 12.04.cpp(12): warning C4715: 'isSorted<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': not all control paths return a value
+  Problem 12.04.vcxproj -> C:\Users\breea\OneDrive\Documents\Visual Studio 2015\Projects\Problem 12.04\Debug\Problem 12.04.exe
+  Problem 12.04.vcxproj -> C:\Users\breea\OneDrive\Documents\Visual Studio 2015\Projects\Problem 12.04\Debug\Problem 12.04.pdb (Partial PDB)

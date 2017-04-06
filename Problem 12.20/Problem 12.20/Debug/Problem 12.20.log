@@ -1,0 +1,11 @@
+﻿  Problem 12.20.cpp
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.20\problem 12.20\problem 12.20.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.20\problem 12.20\problem 12.20.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.20\problem 12.20\problem 12.20.cpp(33): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.20\problem 12.20\problem 12.20.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  Problem 12.20.vcxproj -> C:\Users\breea\OneDrive\Documents\Visual Studio 2015\Projects\Problem 12.20\Debug\Problem 12.20.exe
+  Problem 12.20.vcxproj -> C:\Users\breea\OneDrive\Documents\Visual Studio 2015\Projects\Problem 12.20\Debug\Problem 12.20.pdb (Partial PDB)

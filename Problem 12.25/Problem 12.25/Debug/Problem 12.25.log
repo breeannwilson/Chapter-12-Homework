@@ -1,0 +1,13 @@
+﻿  Transaction.cpp
+  Problem 12.25.cpp
+  Date.cpp
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.25\problem 12.25\date.cpp(9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.25\problem 12.25\date.cpp(19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\breea\onedrive\documents\visual studio 2015\projects\problem 12.25\problem 12.25\date.cpp(43): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Account.cpp
+  Generating Code...
+  Problem 12.25.vcxproj -> C:\Users\breea\OneDrive\Documents\Visual Studio 2015\Projects\Problem 12.25\Debug\Problem 12.25.exe
+  Problem 12.25.vcxproj -> C:\Users\breea\OneDrive\Documents\Visual Studio 2015\Projects\Problem 12.25\Debug\Problem 12.25.pdb (Partial PDB)
